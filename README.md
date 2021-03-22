@@ -1,7 +1,7 @@
-## demo-repo
+# Demo Repo
 
 Hello World
 
-# First Section  
+## First Section  
 
-# Second Section
+## Second Section
